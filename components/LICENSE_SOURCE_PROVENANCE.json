@@ -1,0 +1,100 @@
+{
+  "schema": "release.official_origin_capture.v1",
+  "status": "OFFICIAL_ARCHIVE_BYTES_AND_CORRESPONDING_LICENSE_TEXT_HASHED",
+  "files": [
+    {
+      "filename": "python-3.13.16-embed-amd64.zip",
+      "source_url": "https://www.python.org/ftp/python/3.13.16/python-3.13.16-embed-amd64.zip",
+      "bytes": 11439094,
+      "sha256": "97dae5274cc54867065e8d5a3226e48c35017ed332a0fdb0e27d5b5821961297"
+    },
+    {
+      "filename": "pypdf-6.10.0-py3-none-any.whl",
+      "source_url": "https://files.pythonhosted.org/packages/55/f2/7ebe366f633f30a6ad105f650f44f24f98cb1335c4157d21ae47138b3482/pypdf-6.10.0-py3-none-any.whl",
+      "bytes": 334459,
+      "sha256": "90005e959e1596c6e6c84c8b0ad383285b3e17011751cedd17f2ce8fcdfc86de"
+    },
+    {
+      "filename": "latex2mathml-3.81.0-py3-none-any.whl",
+      "source_url": "https://files.pythonhosted.org/packages/e8/b1/c488b530994c4f68e46efa99a4d6ca6741aaf158e35779fe6c4d8a9a427d/latex2mathml-3.81.0-py3-none-any.whl",
+      "bytes": 79185,
+      "sha256": "d317710393fe20579aea39cfe8928fa2ad9b8780896e585326c75e89c1d1d1a4"
+    },
+    {
+      "filename": "pypdfium2-5.13.0-py3-none-win_amd64.whl",
+      "source_url": "https://files.pythonhosted.org/packages/5d/99/a37b6b902457569468ed5908c94e56cb6c4032541f02cf89f723d42a9148/pypdfium2-5.13.0-py3-none-win_amd64.whl",
+      "bytes": 3885553,
+      "sha256": "47dcca2a8d507b5fd24f94c3c9d48fb379430f097bc20f01beff6c963ffbcedb"
+    },
+    {
+      "filename": "pillow-12.3.0-cp313-cp313-win_amd64.whl",
+      "source_url": "https://files.pythonhosted.org/packages/a6/9b/7a58e61d62be561da3a356fe2384d4059a6345fc130e23ef1c36a5b81d24/pillow-12.3.0-cp313-cp313-win_amd64.whl",
+      "bytes": 7239691,
+      "sha256": "1cca606cd25738df4ed873d5ad46bbdb3d83b5cbca291f6b4ff13a4df6b0bbe8"
+    },
+    {
+      "filename": "python-3.13.16-embed-amd64.zip.spdx.json",
+      "source_url": "https://www.python.org/ftp/python/3.13.16/python-3.13.16-embed-amd64.zip.spdx.json",
+      "bytes": 15338,
+      "sha256": "acbd1648d27c7bc5f7e48160c8e2ad9d0b8e153ba474f03a784d71562d35eeff"
+    },
+    {
+      "filename": "python-3.13.16-embed-amd64.zip.sigstore",
+      "source_url": "https://www.python.org/ftp/python/3.13.16/python-3.13.16-embed-amd64.zip.sigstore",
+      "bytes": 7309,
+      "sha256": "7ea423482f1f45f679bd8e7cc3ead3631f878138ddd12e36f6986d59c6849822"
+    },
+    {
+      "filename": "latex2mathml-3.81.0-LICENSE",
+      "source_url": "https://raw.githubusercontent.com/roniemartinez/latex2mathml/3.81.0/LICENSE",
+      "bytes": 1071,
+      "sha256": "4ac1e1da07f6b343d54191c5e1716840534e08591b3f9eaec90d6800cdc47543"
+    },
+    {
+      "filename": "CPython-3.13.16-license.rst",
+      "source_url": "https://raw.githubusercontent.com/python/cpython/v3.13.16/Doc/license.rst",
+      "bytes": 58181,
+      "sha256": "952ac05720d7f1dcb63589b35eb0931b1442eb250230a4ad31198eddf0ad6abc",
+      "transform": "NONE"
+    },
+    {
+      "filename": "OpenSSL-3.5.9-LICENSE.txt",
+      "source_url": "https://raw.githubusercontent.com/openssl/openssl/openssl-3.5.9/LICENSE.txt",
+      "bytes": 10175,
+      "sha256": "7d5450cb2d142651b8afa315b5f238efc805dad827d91ba367d8516bc9d49e7a",
+      "transform": "NONE"
+    },
+    {
+      "filename": "libb2-0.98.1-COPYING",
+      "source_url": "https://raw.githubusercontent.com/BLAKE2/libb2/v0.98.1/COPYING",
+      "bytes": 6556,
+      "sha256": "6a1ee543e5282cd9061881edf462e6fdab181f328da71fc2c9a6950a80e94d01",
+      "transform": "NONE"
+    },
+    {
+      "filename": "HACL-CPython-3.13.16-MIT-header.txt",
+      "source_url": "https://raw.githubusercontent.com/python/cpython/v3.13.16/Modules/_hacl/Hacl_Hash_SHA2.c",
+      "bytes": 1207,
+      "sha256": "998ce04fb8ad9dedb0bc1b44938f8c3dcf1089780fa105ce1c8c30fb5554d78c",
+      "source_bytes": 36131,
+      "source_sha256": "30638efb75c8b185bb09c3df6977e3f3c5d21a1e696218cf7ade6bc4d5201b31",
+      "transform": "Retained the full original leading MIT copyright/license comment; no executable source saved"
+    },
+    {
+      "filename": "SQLite-3.50.4-LICENSE.md",
+      "source_url": "https://raw.githubusercontent.com/sqlite/sqlite/version-3.50.4/LICENSE.md",
+      "bytes": 3864,
+      "sha256": "a7a58d6022c090c528e3167026167b3141d682efc6a3c188b473ba59f1788fc7"
+    },
+    {
+      "filename": "xz-5.2.5-COPYING",
+      "source_url": "https://raw.githubusercontent.com/tukaani-project/xz/v5.2.5/COPYING",
+      "bytes": 2775,
+      "sha256": "bcb02973ef6e87ea73d331b3a80df7748407f17efdb784b61b47e0e610d3bb5c"
+    }
+  ],
+  "original_archives_kept_in_build_workspace": true,
+  "signature_cryptographic_verification": "NOT_RUN",
+  "sigstore_notice": "Matching or retaining a Sigstore bundle does not certify its cryptographic verification",
+  "local_private_paths_or_task_ids": false
+}

@@ -1,0 +1,585 @@
+{
+  "schema": "release.third_party_license_materials.v1",
+  "status": "ORIGINAL_NOTICE_MATERIALS_AND_WINDOWS_TERMS_INDEPENDENTLY_REVIEWED",
+  "files": [
+    {
+      "component": "cpython",
+      "path": "licenses/cpython/LICENSE.txt",
+      "bytes": 33861,
+      "sha256": "62bec384df47b0328307db41455ff6ea2559e5546b394ac69148561b21703120",
+      "source": "runtime/python/LICENSE.txt",
+      "transformation": "NONE"
+    },
+    {
+      "component": "cpython",
+      "path": "licenses/cpython/INCORPORATED_SOFTWARE_LICENSES.rst",
+      "bytes": 58181,
+      "sha256": "952ac05720d7f1dcb63589b35eb0931b1442eb250230a4ad31198eddf0ad6abc",
+      "source": "Official corresponding license text",
+      "transformation": "NONE",
+      "official_origin": {
+        "source_url": "https://raw.githubusercontent.com/python/cpython/v3.13.16/Doc/license.rst",
+        "bytes": 58181,
+        "sha256": "952ac05720d7f1dcb63589b35eb0931b1442eb250230a4ad31198eddf0ad6abc",
+        "transform": "NONE"
+      }
+    },
+    {
+      "component": "cpython-openssl",
+      "path": "licenses/cpython/OpenSSL-3.5.9-LICENSE.txt",
+      "bytes": 10175,
+      "sha256": "7d5450cb2d142651b8afa315b5f238efc805dad827d91ba367d8516bc9d49e7a",
+      "source": "Official corresponding license text",
+      "transformation": "NONE",
+      "official_origin": {
+        "source_url": "https://raw.githubusercontent.com/openssl/openssl/openssl-3.5.9/LICENSE.txt",
+        "bytes": 10175,
+        "sha256": "7d5450cb2d142651b8afa315b5f238efc805dad827d91ba367d8516bc9d49e7a",
+        "transform": "NONE"
+      }
+    },
+    {
+      "component": "cpython-libb2",
+      "path": "licenses/cpython/libb2-0.98.1-COPYING",
+      "bytes": 6556,
+      "sha256": "6a1ee543e5282cd9061881edf462e6fdab181f328da71fc2c9a6950a80e94d01",
+      "source": "Official corresponding license text",
+      "transformation": "NONE",
+      "official_origin": {
+        "source_url": "https://raw.githubusercontent.com/BLAKE2/libb2/v0.98.1/COPYING",
+        "bytes": 6556,
+        "sha256": "6a1ee543e5282cd9061881edf462e6fdab181f328da71fc2c9a6950a80e94d01",
+        "transform": "NONE"
+      }
+    },
+    {
+      "component": "cpython-hacl",
+      "path": "licenses/cpython/HACL-MIT-header.txt",
+      "bytes": 1207,
+      "sha256": "998ce04fb8ad9dedb0bc1b44938f8c3dcf1089780fa105ce1c8c30fb5554d78c",
+      "source": "Official corresponding license text",
+      "transformation": "NONE",
+      "official_origin": {
+        "source_url": "https://raw.githubusercontent.com/python/cpython/v3.13.16/Modules/_hacl/Hacl_Hash_SHA2.c",
+        "source_bytes": 36131,
+        "source_sha256": "30638efb75c8b185bb09c3df6977e3f3c5d21a1e696218cf7ade6bc4d5201b31",
+        "bytes": 1207,
+        "sha256": "998ce04fb8ad9dedb0bc1b44938f8c3dcf1089780fa105ce1c8c30fb5554d78c",
+        "transform": "Retained the full original leading MIT copyright/license comment; no executable source saved"
+      }
+    },
+    {
+      "component": "latex2mathml",
+      "path": "licenses/latex2mathml/LICENSE",
+      "bytes": 1071,
+      "sha256": "4ac1e1da07f6b343d54191c5e1716840534e08591b3f9eaec90d6800cdc47543",
+      "source": "Official corresponding license text",
+      "transformation": "NONE",
+      "official_origin": {
+        "source_url": "https://raw.githubusercontent.com/roniemartinez/latex2mathml/3.81.0/LICENSE",
+        "bytes": 1071,
+        "sha256": "4ac1e1da07f6b343d54191c5e1716840534e08591b3f9eaec90d6800cdc47543"
+      }
+    },
+    {
+      "component": "pillow",
+      "path": "licenses/pillow/LICENSE",
+      "bytes": 78016,
+      "sha256": "4f7866a74802c6326f81faff59a56546b6aec2b10b91973e0e9308de95e79857",
+      "source": "runtime/pdf-text-v1/pillow-12.3.0.dist-info/licenses/LICENSE",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdfium2",
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/abseil.txt",
+      "bytes": 11564,
+      "sha256": "f54fff0b905df5b3464527c652a30e903b172d6dcab4d89b5e6f105d5e4a4603",
+      "source": "runtime/pdf-text-v1/pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/abseil.txt",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdfium2",
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/agg23.txt",
+      "bytes": 725,
+      "sha256": "c110d3ea2ad77467ce0dcff7d3337e6c8be8049a5103f4b9bd5fd911a77972e5",
+      "source": "runtime/pdf-text-v1/pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/agg23.txt",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdfium2",
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/fast_float.txt",
+      "bytes": 1106,
+      "sha256": "bf1b57355feca8fce77ee95f48002f8d4789fb71b30ec7599c06cda4901fbb2b",
+      "source": "runtime/pdf-text-v1/pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/fast_float.txt",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdfium2",
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/freetype.txt",
+      "bytes": 6741,
+      "sha256": "f4b133e25df1f86ad3ffea453aa0e613f0474f34778dbbb3e437e7b2724937d8",
+      "source": "runtime/pdf-text-v1/pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/freetype.txt",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdfium2",
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/icu.txt",
+      "bytes": 28286,
+      "sha256": "93679f4389d53b6835d89843f251844fb9bc455b35bab036d3c8e7abe497a47a",
+      "source": "runtime/pdf-text-v1/pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/icu.txt",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdfium2",
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/lcms.txt",
+      "bytes": 1353,
+      "sha256": "7312b68c5b25e9bf2b828706fb4e29588f22705112f411fd42e1f7d84c3d139a",
+      "source": "runtime/pdf-text-v1/pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/lcms.txt",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdfium2",
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libjpeg_turbo.ijg",
+      "bytes": 13059,
+      "sha256": "db16a04128171879c60708d171b88d97345a2dd20f9bfc173680a4497c73f704",
+      "source": "runtime/pdf-text-v1/pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/libjpeg_turbo.ijg",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdfium2",
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libjpeg_turbo.md",
+      "bytes": 5755,
+      "sha256": "be2b2b5ab168bce87bc3e31f2a5c5adba4b7f6e9e51d618e958d1d46972ebd95",
+      "source": "runtime/pdf-text-v1/pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/libjpeg_turbo.md",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdfium2",
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libopenjpeg.txt",
+      "bytes": 1794,
+      "sha256": "c5ab0890a737c2dfa7ba675036554f6d17741d98629b0c2a145354d00617e6b2",
+      "source": "runtime/pdf-text-v1/pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/libopenjpeg.txt",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdfium2",
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libpng.txt",
+      "bytes": 5479,
+      "sha256": "452390433ba0f88aa3e2b122c647741b72a0c117cd6ed7a329b49785aecb5511",
+      "source": "runtime/pdf-text-v1/pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/libpng.txt",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdfium2",
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libtiff.txt",
+      "bytes": 1139,
+      "sha256": "92b72ba97e6c2749c2a94bc0ef646b47080217f1e772a482b33cf5a5f98a6506",
+      "source": "runtime/pdf-text-v1/pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/libtiff.txt",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdfium2",
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/llvm-libc.txt",
+      "bytes": 15418,
+      "sha256": "3b6226c32e168c83b891d8d6f0d3c29c2116dc3ef93dc93c307b54f279ecf383",
+      "source": "runtime/pdf-text-v1/pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/llvm-libc.txt",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdfium2",
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/pdfium-binaries.txt",
+      "bytes": 1184,
+      "sha256": "8854f4388f1ca13b3ad9baa42e95f5546b4c0b17109c159256d3eca7be39b09b",
+      "source": "runtime/pdf-text-v1/pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/pdfium-binaries.txt",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdfium2",
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/pdfium.txt",
+      "bytes": 12818,
+      "sha256": "961eacd9633fff6d051db7208b755e9210e30efac7adec3e6a6d52798f0ccf0e",
+      "source": "runtime/pdf-text-v1/pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/pdfium.txt",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdfium2",
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/simdutf.txt",
+      "bytes": 1077,
+      "sha256": "c172a0ba936ff31230febb5dad869e25cb7c1a07480c7a381be8cf011bb52719",
+      "source": "runtime/pdf-text-v1/pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/simdutf.txt",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdfium2",
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/zlib.txt",
+      "bytes": 1332,
+      "sha256": "33fd641c9f3b0e0be64bc78fea9e94807674cdd70c48477599226cb8956565fe",
+      "source": "runtime/pdf-text-v1/pypdfium2-5.13.0.dist-info/licenses/data/windows_x64/BUILD_LICENSES/zlib.txt",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdfium2",
+      "path": "licenses/pypdfium2/LICENSES/Apache-2.0.txt",
+      "bytes": 11560,
+      "sha256": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5",
+      "source": "runtime/pdf-text-v1/pypdfium2-5.13.0.dist-info/licenses/LICENSES/Apache-2.0.txt",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdfium2",
+      "path": "licenses/pypdfium2/LICENSES/BSD-3-Clause.txt",
+      "bytes": 1485,
+      "sha256": "ad9a9e823df025f42389c1812eae28019f657d1ed7b3a4ebfd5010b0736a0da4",
+      "source": "runtime/pdf-text-v1/pypdfium2-5.13.0.dist-info/licenses/LICENSES/BSD-3-Clause.txt",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdfium2",
+      "path": "licenses/pypdfium2/LICENSES/CC-BY-4.0.txt",
+      "bytes": 14844,
+      "sha256": "f1b1748301cd4274f46733c218d510929661b4990855de5fc645dacd69c4371c",
+      "source": "runtime/pdf-text-v1/pypdfium2-5.13.0.dist-info/licenses/LICENSES/CC-BY-4.0.txt",
+      "transformation": "NONE"
+    },
+    {
+      "component": "pypdf",
+      "path": "licenses/pypdf/LICENSE",
+      "bytes": 1605,
+      "sha256": "a97ac230e5f33ef10a5367a850eb01f91f1a0b064e34742c7794d2294557f524",
+      "source": "runtime/vendor/pypdf-6.10.0.dist-info/licenses/LICENSE",
+      "transformation": "NONE"
+    },
+    {
+      "component": "cpython-sqlite",
+      "path": "licenses/cpython/SQLite-3.50.4-LICENSE.md",
+      "bytes": 3864,
+      "sha256": "a7a58d6022c090c528e3167026167b3141d682efc6a3c188b473ba59f1788fc7",
+      "source": "Exact official component version license",
+      "official_origin": {
+        "source_url": "https://raw.githubusercontent.com/sqlite/sqlite/version-3.50.4/LICENSE.md",
+        "sha256": "a7a58d6022c090c528e3167026167b3141d682efc6a3c188b473ba59f1788fc7",
+        "bytes": 3864
+      },
+      "transformation": "NONE"
+    },
+    {
+      "component": "cpython-xz",
+      "path": "licenses/cpython/xz-5.2.5-COPYING",
+      "bytes": 2775,
+      "sha256": "bcb02973ef6e87ea73d331b3a80df7748407f17efdb784b61b47e0e610d3bb5c",
+      "source": "Exact official component version license",
+      "official_origin": {
+        "source_url": "https://raw.githubusercontent.com/tukaani-project/xz/v5.2.5/COPYING",
+        "sha256": "bcb02973ef6e87ea73d331b3a80df7748407f17efdb784b61b47e0e610d3bb5c",
+        "bytes": 2775
+      },
+      "transformation": "NONE"
+    }
+  ],
+  "components": [
+    {
+      "id": "cpython",
+      "version": "3.13.16",
+      "declared_license": "PSF-2.0 and incorporated software terms",
+      "license_files": [
+        "licenses/cpython/LICENSE.txt",
+        "licenses/cpython/INCORPORATED_SOFTWARE_LICENSES.rst",
+        "licenses/cpython/OpenSSL-3.5.9-LICENSE.txt",
+        "licenses/cpython/libb2-0.98.1-COPYING",
+        "licenses/cpython/HACL-MIT-header.txt",
+        "licenses/cpython/SQLite-3.50.4-LICENSE.md",
+        "licenses/cpython/xz-5.2.5-COPYING"
+      ],
+      "notice_material_presence": "PASS",
+      "redistribution_review": "INDEPENDENT_REVIEW_NO_P0_P1_P2_FINDINGS_IN_NAMED_SCOPE",
+      "spdx_noassertion_entries": [
+        {
+          "name": "bzip2",
+          "versionInfo": "1.0.8",
+          "downloadLocation": "https://github.com/python/cpython-source-deps/archive/refs/tags/bzip2-1.0.8.tar.gz",
+          "licenseConcluded": "NOASSERTION",
+          "notice_files": [
+            "licenses/cpython/LICENSE.txt"
+          ],
+          "notice_status": "Corresponding notice bytes retained; independently reviewed with original NOASSERTION retained"
+        },
+        {
+          "name": "expat",
+          "versionInfo": "2.8.5",
+          "downloadLocation": "https://github.com/libexpat/libexpat/releases/download/R_2_8_5/expat-2.8.5.tar.gz",
+          "licenseConcluded": "NOASSERTION",
+          "notice_files": [
+            "licenses/cpython/INCORPORATED_SOFTWARE_LICENSES.rst"
+          ],
+          "notice_status": "Corresponding notice bytes retained; independently reviewed with original NOASSERTION retained"
+        },
+        {
+          "name": "hacl-star",
+          "versionInfo": "bb3d0dc8d9d15a5cd51094d5b69e70aa09005ff0",
+          "downloadLocation": "https://github.com/hacl-star/hacl-star/archive/bb3d0dc8d9d15a5cd51094d5b69e70aa09005ff0.zip",
+          "licenseConcluded": "NOASSERTION",
+          "notice_files": [
+            "licenses/cpython/HACL-MIT-header.txt"
+          ],
+          "notice_status": "Corresponding notice bytes retained; independently reviewed with original NOASSERTION retained"
+        },
+        {
+          "name": "libb2",
+          "versionInfo": "0.98.1",
+          "downloadLocation": "https://github.com/BLAKE2/libb2/releases/download/v0.98.1/libb2-0.98.1.tar.gz",
+          "licenseConcluded": "NOASSERTION",
+          "notice_files": [
+            "licenses/cpython/libb2-0.98.1-COPYING"
+          ],
+          "notice_status": "Corresponding notice bytes retained; independently reviewed with original NOASSERTION retained"
+        },
+        {
+          "name": "libffi",
+          "versionInfo": "3.4.4",
+          "downloadLocation": "https://github.com/python/cpython-source-deps/archive/refs/tags/libffi-3.4.4.tar.gz",
+          "licenseConcluded": "NOASSERTION",
+          "notice_files": [
+            "licenses/cpython/LICENSE.txt",
+            "licenses/cpython/INCORPORATED_SOFTWARE_LICENSES.rst"
+          ],
+          "notice_status": "Corresponding notice bytes retained; independently reviewed with original NOASSERTION retained"
+        },
+        {
+          "name": "macholib",
+          "versionInfo": "1.0",
+          "downloadLocation": "https://files.pythonhosted.org/packages/ec/57/f0a712efc3ed982cf4038a3cee172057303b9be914c32c93b2fbec27f785/macholib-1.0.tar.gz",
+          "licenseConcluded": "NOASSERTION",
+          "runtime_presence": "NOT_SHIPPED_IN_WINDOWS_EMBEDDED_ARCHIVE",
+          "notice_status": "SPDX_BUILD_SOURCE_REFERENCE_ONLY"
+        },
+        {
+          "name": "mpdecimal",
+          "versionInfo": "4.0.0",
+          "downloadLocation": "https://github.com/python/cpython-source-deps/archive/refs/tags/mpdecimal-4.0.0.tar.gz",
+          "licenseConcluded": "NOASSERTION",
+          "notice_files": [
+            "licenses/cpython/INCORPORATED_SOFTWARE_LICENSES.rst"
+          ],
+          "notice_status": "Corresponding notice bytes retained; independently reviewed with original NOASSERTION retained"
+        },
+        {
+          "name": "mpdecimal",
+          "versionInfo": "2.5.1",
+          "downloadLocation": "https://www.bytereef.org/software/mpdecimal/releases/mpdecimal-2.5.1.tar.gz",
+          "licenseConcluded": "NOASSERTION",
+          "notice_files": [
+            "licenses/cpython/INCORPORATED_SOFTWARE_LICENSES.rst"
+          ],
+          "notice_status": "Corresponding notice bytes retained; independently reviewed with original NOASSERTION retained"
+        },
+        {
+          "name": "openssl",
+          "versionInfo": "3.5.9",
+          "downloadLocation": "https://github.com/python/cpython-source-deps/archive/refs/tags/openssl-3.5.9.tar.gz",
+          "licenseConcluded": "NOASSERTION",
+          "notice_files": [
+            "licenses/cpython/LICENSE.txt",
+            "licenses/cpython/OpenSSL-3.5.9-LICENSE.txt"
+          ],
+          "notice_status": "Corresponding notice bytes retained; independently reviewed with original NOASSERTION retained"
+        },
+        {
+          "name": "sqlite",
+          "versionInfo": "3.50.4.0",
+          "downloadLocation": "https://github.com/python/cpython-source-deps/archive/refs/tags/sqlite-3.50.4.0.tar.gz",
+          "licenseConcluded": "NOASSERTION",
+          "runtime_presence": "sqlite3.dll",
+          "notice_status": "Exact-version official source says SQLite build products public domain; independently reviewed with original NOASSERTION retained",
+          "notice_files": [
+            "licenses/cpython/SQLite-3.50.4-LICENSE.md"
+          ]
+        },
+        {
+          "name": "tcl-core",
+          "versionInfo": "8.6.15.0",
+          "downloadLocation": "https://github.com/python/cpython-source-deps/archive/refs/tags/tcl-core-8.6.15.0.tar.gz",
+          "licenseConcluded": "NOASSERTION",
+          "runtime_presence": "NOT_SHIPPED_IN_WINDOWS_EMBEDDED_ARCHIVE",
+          "notice_status": "SPDX_BUILD_SOURCE_REFERENCE_ONLY"
+        },
+        {
+          "name": "tk",
+          "versionInfo": "8.6.15.0",
+          "downloadLocation": "https://github.com/python/cpython-source-deps/archive/refs/tags/tk-8.6.15.0.tar.gz",
+          "licenseConcluded": "NOASSERTION",
+          "runtime_presence": "NOT_SHIPPED_IN_WINDOWS_EMBEDDED_ARCHIVE",
+          "notice_status": "SPDX_BUILD_SOURCE_REFERENCE_ONLY"
+        },
+        {
+          "name": "xz",
+          "versionInfo": "5.2.5",
+          "downloadLocation": "https://github.com/python/cpython-source-deps/archive/refs/tags/xz-5.2.5.tar.gz",
+          "licenseConcluded": "NOASSERTION",
+          "runtime_presence": "_lzma.pyd",
+          "notice_status": "Exact-version liblzma public-domain statement and compiler-code qualification retained; independently reviewed with original NOASSERTION retained",
+          "notice_files": [
+            "licenses/cpython/xz-5.2.5-COPYING"
+          ]
+        },
+        {
+          "name": "zlib",
+          "versionInfo": "1.3.1",
+          "downloadLocation": "https://github.com/python/cpython-source-deps/archive/refs/tags/zlib-1.3.1.tar.gz",
+          "licenseConcluded": "NOASSERTION",
+          "notice_files": [
+            "licenses/cpython/INCORPORATED_SOFTWARE_LICENSES.rst"
+          ],
+          "notice_status": "Corresponding notice bytes retained; independently reviewed with original NOASSERTION retained"
+        }
+      ],
+      "microsoft_runtime": [
+        {
+          "path": "runtime/python/vcruntime140.dll",
+          "bytes": 178616,
+          "sha256": "d1f4225df2cd877dbf130d5668a021dce3f94118455ff5ec952061c30afc9ce7",
+          "source": "Unchanged member of official CPython 3.13.16 embeddable ZIP",
+          "applicable_terms": "licenses/cpython/LICENSE.txt: Additional Conditions for this Windows binary build",
+          "review_status": "OFFICIAL_ARCHIVE_ORIGINAL_BYTES_AND_WINDOWS_TERMS_INDEPENDENTLY_REVIEWED",
+          "file_version": "14.51.36247.0",
+          "version_evidence": "Windows PE FileVersion/ProductVersion read from official archive member"
+        },
+        {
+          "path": "runtime/python/vcruntime140_1.dll",
+          "bytes": 50112,
+          "sha256": "a7146c08f89fe5b04541ab507cdb59ff7b44534d4ba3c668a426c6450a03434e",
+          "source": "Unchanged member of official CPython 3.13.16 embeddable ZIP",
+          "applicable_terms": "licenses/cpython/LICENSE.txt: Additional Conditions for this Windows binary build",
+          "review_status": "OFFICIAL_ARCHIVE_ORIGINAL_BYTES_AND_WINDOWS_TERMS_INDEPENDENTLY_REVIEWED",
+          "file_version": "14.51.36247.0",
+          "version_evidence": "Windows PE FileVersion/ProductVersion read from official archive member"
+        }
+      ],
+      "mimalloc": {
+        "notice": "licenses/cpython/INCORPORATED_SOFTWARE_LICENSES.rst: mimalloc",
+        "note": "CPython release notice retained; not silently omitted due to missing SPDX package record"
+      }
+    },
+    {
+      "id": "pillow",
+      "version": "12.3.0",
+      "declared_license": "MIT-CMU",
+      "license_files": [
+        "licenses/pillow/LICENSE"
+      ],
+      "notice_material_presence": "PASS",
+      "redistribution_review": "INDEPENDENT_REVIEW_NO_P0_P1_P2_FINDINGS_IN_NAMED_SCOPE",
+      "compiled_dependency_notice_sections": [
+        "brotli-1.2.0",
+        "freetype-2.14.3",
+        "harfbuzz-14.2.1",
+        "lcms2-2.19.1",
+        "libavif-1.4.2",
+        "libjpeg-turbo-3.1.4.1",
+        "libpng-1.6.58",
+        "libwebp-1.6.0",
+        "openjpeg-2.5.4",
+        "tiff-4.7.1",
+        "xz-5.8.3",
+        "zlib-ng-2.3.3"
+      ]
+    },
+    {
+      "id": "pypdfium2",
+      "version": "5.13.0",
+      "declared_license": "BSD-3-Clause, Apache-2.0, dependency licenses",
+      "license_files": [
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/abseil.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/agg23.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/fast_float.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/freetype.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/icu.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/lcms.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libjpeg_turbo.ijg",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libjpeg_turbo.md",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libopenjpeg.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libpng.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libtiff.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/llvm-libc.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/pdfium-binaries.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/pdfium.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/simdutf.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/zlib.txt",
+        "licenses/pypdfium2/LICENSES/Apache-2.0.txt",
+        "licenses/pypdfium2/LICENSES/BSD-3-Clause.txt",
+        "licenses/pypdfium2/LICENSES/CC-BY-4.0.txt"
+      ],
+      "notice_material_presence": "PASS",
+      "redistribution_review": "INDEPENDENT_REVIEW_NO_P0_P1_P2_FINDINGS_IN_NAMED_SCOPE",
+      "pdfium_version": {
+        "major": 153,
+        "minor": 0,
+        "build": 7999,
+        "patch": 0,
+        "n_commits": 0,
+        "hash": null,
+        "origin": "pdfium-binaries",
+        "flags": []
+      },
+      "compiled_dependency_notices": [
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/abseil.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/agg23.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/fast_float.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/freetype.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/icu.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/lcms.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libjpeg_turbo.ijg",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libjpeg_turbo.md",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libopenjpeg.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libpng.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libtiff.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/llvm-libc.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/pdfium-binaries.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/pdfium.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/simdutf.txt",
+        "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/zlib.txt"
+      ]
+    },
+    {
+      "id": "latex2mathml",
+      "version": "3.81.0",
+      "declared_license": "MIT",
+      "license_files": [
+        "licenses/latex2mathml/LICENSE"
+      ],
+      "notice_material_presence": "PASS",
+      "redistribution_review": "INDEPENDENT_REVIEW_NO_P0_P1_P2_FINDINGS_IN_NAMED_SCOPE"
+    },
+    {
+      "id": "pypdf",
+      "version": "6.10.0",
+      "declared_license": "BSD-3-Clause",
+      "license_files": [
+        "licenses/pypdf/LICENSE"
+      ],
+      "notice_material_presence": "PASS",
+      "redistribution_review": "INDEPENDENT_REVIEW_NO_P0_P1_P2_FINDINGS_IN_NAMED_SCOPE"
+    }
+  ],
+  "signature_cryptographic_verification": "NOT_RUN",
+  "project_license": "MIT; Copyright (c) 2026 LLM-Wiki-Literature contributors",
+  "project_scope": "Own code, manuals, panorama, synthetic examples; third-party materials keep their terms",
+  "unresolved_items": [
+    "Target package integration and exact extracted ZIP workflow/client self-test"
+  ],
+  "public_release_status": "CANDIDATE",
+  "free_type_notice_path": "THIRD_PARTY_NOTICES.md",
+  "review_boundary": "Collected original notice bytes and exact source facts do not constitute a blanket legal warranty",
+  "independent_review_summary": {
+    "date": "2026-10-13",
+    "status": "NO_P0_P1_P2_FINDINGS",
+    "scope": [
+      "29 original license text hashes",
+      "Fixed official archive origins",
+      "CPython Windows/Microsoft additional conditions",
+      "Runtime source/frozen provider boundary and export rules"
+    ],
+    "review_report_sha256": "25aa522b456af100d7e42f123d7b6721f304f226494e67acda9b1b7eabbff6a3",
+    "boundary": "Limited technical and notice review; not a blanket legal warranty or permission to publish",
+    "actual_task_ids_and_private_report_contents_included": false
+  }
+}

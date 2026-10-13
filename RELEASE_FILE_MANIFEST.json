@@ -1,0 +1,437 @@
+{
+  "schema": "release.file_manifest.v1",
+  "product": "LLM-Wiki-Literature",
+  "version": "0.1.0",
+  "kind": "source",
+  "status": "LOCAL_FINAL_UNPUBLISHED",
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 1507,
+      "sha256": "9efa074515ff09f630c4519e10fc093776a711df98507a8613287f13b541864e"
+    },
+    {
+      "path": "AI_GUIDE.md",
+      "bytes": 30205,
+      "sha256": "2008638fc0b6dba4d5450e441fbf85291db0e1a0313afb2ebb94101bfc8f2dca"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1089,
+      "sha256": "6e8c19f1084c95913c484a1d38051db1c56cecd68ce9cb0e1f0a95fd3ccb673f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4942,
+      "sha256": "f28431370c42a0b1fce8ab0f724e2fa7544a569e71ebedc33bbb03c9d218b01e"
+    },
+    {
+      "path": "REQUIREMENTS.md",
+      "bytes": 5928,
+      "sha256": "05a264660e7bdc57a6505d85a2df5995f5b30a44a8ecaaf85be33a5d35ab070a"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 4964,
+      "sha256": "c0c4a13996ce9b04ced73dc264114c050e3645e4ea1351a043ccc1222f57c3cd"
+    },
+    {
+      "path": "USER_GUIDE.md",
+      "bytes": 14110,
+      "sha256": "2572c518dec6813198e38516a2da6279bcc42037ac463a7912923e88c1f08a71"
+    },
+    {
+      "path": "app/__init__.py",
+      "bytes": 66,
+      "sha256": "8522fe06a99b4f9d3418b2e217ae6158952502e98bbe329cc125db69c1dcfba3"
+    },
+    {
+      "path": "app/cli.py",
+      "bytes": 16394,
+      "sha256": "d76903cbaa18bdfbfa0f691fe1a221b41ef00614dcf088d2ad477092c4b6fb09"
+    },
+    {
+      "path": "app/client.py",
+      "bytes": 15689,
+      "sha256": "51e82f014fb787245a8126cdbd317b9282b73bdf2e66c2ec79f0ac3844b0499d"
+    },
+    {
+      "path": "app/common.py",
+      "bytes": 2207,
+      "sha256": "85f25a1b0b263764d04c2b26f8dc95b830d202315d11ba1b53cda5f586539025"
+    },
+    {
+      "path": "app/core.py",
+      "bytes": 5735,
+      "sha256": "b7be7f14e73083f2b830739d5f2fcbeb60209ab605c63f809c86538c43fa675d"
+    },
+    {
+      "path": "app/documents.py",
+      "bytes": 26816,
+      "sha256": "9ad1a5b0352df4e5cb3a57f857d90711ad5859ad3aa7d2b1e35b794a2fe1833c"
+    },
+    {
+      "path": "app/environment.py",
+      "bytes": 18486,
+      "sha256": "1e9b21e6eebaa05aa8e6b35b9e93078532378e49eaf263d3ca99bd7205768186"
+    },
+    {
+      "path": "app/evidence.py",
+      "bytes": 21131,
+      "sha256": "3ffa175db8246104a78f29c95c03e79a0a2cb23286dc53c35bb2e16a540b6b1f"
+    },
+    {
+      "path": "app/host.py",
+      "bytes": 20427,
+      "sha256": "0f85fb0dffff31cb565f6b22532a87d6f927b9e0f6e68986f3586e784ddd363d"
+    },
+    {
+      "path": "app/page_protocol.py",
+      "bytes": 25027,
+      "sha256": "6ccd3dc001dbc6d79d0a9df25903e3f1d2af91833a8490077fac321d9e188869"
+    },
+    {
+      "path": "app/review.py",
+      "bytes": 11886,
+      "sha256": "26090fe9282fe3e5c3876d487968654080565b8d5e61dae12e5687f109b6e94e"
+    },
+    {
+      "path": "app/storage.py",
+      "bytes": 32223,
+      "sha256": "da9c0ce24e8d394c5db70d3fb66236d8973afacff84f0918cfaaa7119006df8b"
+    },
+    {
+      "path": "app/workflow.py",
+      "bytes": 3720,
+      "sha256": "7da18e1e9a0dd2a5c8d5b25c9eff51e7678c6bc6636d573a5874189780bc3870"
+    },
+    {
+      "path": "build/BUILD_RECIPE.md",
+      "bytes": 4275,
+      "sha256": "1a8a74a833307c35401d518744b0ace0e1b93fa788102a9a58ee6ea356f07ef2"
+    },
+    {
+      "path": "build/acquire_license_materials.ps1",
+      "bytes": 4453,
+      "sha256": "185ef7b9bb0d380c917e08677594ace705f8ff2011c1d86e4dea06a749dab923"
+    },
+    {
+      "path": "build/acquire_runtime.ps1",
+      "bytes": 5476,
+      "sha256": "2a93b46ec21f3a4ddd6939249cc4e81085edd6a237a5d4a9d80460d9bebf38f7"
+    },
+    {
+      "path": "build/complete_notices.py",
+      "bytes": 4279,
+      "sha256": "6ac8e58385fc23287b8956b1324fc61a6f7a4cbe9af5d4f622a97e9920438e94"
+    },
+    {
+      "path": "build/export_release.py",
+      "bytes": 16233,
+      "sha256": "1bd25fe224eac7137a65eeeec99e760d67c15f040fa17f6f581246325d462814"
+    },
+    {
+      "path": "build/prepare_notices.py",
+      "bytes": 9118,
+      "sha256": "762f1653166b6d6f199e887a624f68f7c9fa158db83bb04d34d97dabd0e1ba4f"
+    },
+    {
+      "path": "build/rebuild_runtime.py",
+      "bytes": 12039,
+      "sha256": "7fb6b2957201a96c01f591be138d07fced2263b8aef9aafb1a3cc62866666b13"
+    },
+    {
+      "path": "build/verify_export.py",
+      "bytes": 5261,
+      "sha256": "14c4e78818888fee638faa63a377d9125945d8e17de523bd3e944aa0f05b1abd"
+    },
+    {
+      "path": "components/CPython-3.13.16.sigstore",
+      "bytes": 7309,
+      "sha256": "7ea423482f1f45f679bd8e7cc3ead3631f878138ddd12e36f6986d59c6849822"
+    },
+    {
+      "path": "components/CPython-3.13.16.spdx.json",
+      "bytes": 15338,
+      "sha256": "acbd1648d27c7bc5f7e48160c8e2ad9d0b8e153ba474f03a784d71562d35eeff"
+    },
+    {
+      "path": "components/DEPENDENCIES_LOCK.json",
+      "bytes": 5411,
+      "sha256": "09c18c91448cfb45eca2561d21ae56b4ec86d58034a6c8ba7329f4b7e97c4205"
+    },
+    {
+      "path": "components/LICENSE_SOURCE_PROVENANCE.json",
+      "bytes": 4767,
+      "sha256": "dec9dc67a1a4183c44339423a0b41b5783426b76f1d9c78eb41ba2ac4bc7af03"
+    },
+    {
+      "path": "components/RUNTIME_SOURCES.json",
+      "bytes": 366861,
+      "sha256": "d201b72d915654a7d6482f044fba78d572d59f3cba759b5980600fa4653766ae"
+    },
+    {
+      "path": "docs/FILE_GUIDE.md",
+      "bytes": 5666,
+      "sha256": "d1e5124c4566bf0ab89da2e4ad61b51e4b59ec31569257d568dc24563102b996"
+    },
+    {
+      "path": "docs/PANORAMA.md",
+      "bytes": 1162,
+      "sha256": "ea9eb5f5b1224111c21447628fc28f365ef5ba6c8686e86fa756ab0193ac1c42"
+    },
+    {
+      "path": "docs/RELEASE_NOTES.md",
+      "bytes": 5256,
+      "sha256": "2c435fc7aa2523410c571a24124d3942637f61d27cdb066b2f17eb9e6e9fb034"
+    },
+    {
+      "path": "docs/SOURCES_AND_FIRECRAWL.md",
+      "bytes": 3262,
+      "sha256": "45dc2b768ff97114c64daa31b0eb52ed479a1cebad10d70bd31b28161c2543b8"
+    },
+    {
+      "path": "docs/literature-panorama.png",
+      "bytes": 881910,
+      "sha256": "f7342698951461f70dc85fc372e8421d0d39fc0c4901e93b88cf9928f2af2bf7"
+    },
+    {
+      "path": "docs/literature-panorama.svg",
+      "bytes": 22401,
+      "sha256": "76411530f732f12cd31acb853502adfcab9ce1e15841218f8025dcb4a01957c4"
+    },
+    {
+      "path": "docs/panorama-content.json",
+      "bytes": 3043,
+      "sha256": "06a4cf3b0b2e73ad00d9a27cdd3b831e21becd0eb0d8bb26355ba9b8cb3cb7f0"
+    },
+    {
+      "path": "examples/MANIFEST.json",
+      "bytes": 213,
+      "sha256": "23bee23296f45da213d286239d3ac7c143362807a4d7e626fd49dc286335bbb2"
+    },
+    {
+      "path": "examples/SYNTHETIC_READABLE_TWO_PAGES.pdf",
+      "bytes": 2546,
+      "sha256": "73bd893812212a8e0c21e933f032c82937790c32922057ab14d6da2968a12f4b"
+    },
+    {
+      "path": "examples/SYNTHETIC_WORKFLOW_A.pdf",
+      "bytes": 8001,
+      "sha256": "90908c29b1ceea4c6a4a6cad98bb9198ed2eb8ff05d3d9033e1905c6cafc8f0f"
+    },
+    {
+      "path": "examples/SYNTHETIC_WORKFLOW_B.pdf",
+      "bytes": 5692,
+      "sha256": "e71f0a25a89ae44a961ffe90d9c260e5a8f846965b1a1d0487f7d90ad12a3946"
+    },
+    {
+      "path": "launch.py",
+      "bytes": 769,
+      "sha256": "06a3d1360fc9e94c335d9b685e0859083bf45501b30276e21d96db4fe9d514f0"
+    },
+    {
+      "path": "licenses/THIRD_PARTY_LICENSES.json",
+      "bytes": 26709,
+      "sha256": "879dc669cdbd391efcc8ad5ad588dcd71d28cc0b1180a54ceb2fbb3507874164"
+    },
+    {
+      "path": "licenses/cpython/HACL-MIT-header.txt",
+      "bytes": 1207,
+      "sha256": "998ce04fb8ad9dedb0bc1b44938f8c3dcf1089780fa105ce1c8c30fb5554d78c"
+    },
+    {
+      "path": "licenses/cpython/INCORPORATED_SOFTWARE_LICENSES.rst",
+      "bytes": 58181,
+      "sha256": "952ac05720d7f1dcb63589b35eb0931b1442eb250230a4ad31198eddf0ad6abc"
+    },
+    {
+      "path": "licenses/cpython/LICENSE.txt",
+      "bytes": 33861,
+      "sha256": "62bec384df47b0328307db41455ff6ea2559e5546b394ac69148561b21703120"
+    },
+    {
+      "path": "licenses/cpython/OpenSSL-3.5.9-LICENSE.txt",
+      "bytes": 10175,
+      "sha256": "7d5450cb2d142651b8afa315b5f238efc805dad827d91ba367d8516bc9d49e7a"
+    },
+    {
+      "path": "licenses/cpython/SQLite-3.50.4-LICENSE.md",
+      "bytes": 3864,
+      "sha256": "a7a58d6022c090c528e3167026167b3141d682efc6a3c188b473ba59f1788fc7"
+    },
+    {
+      "path": "licenses/cpython/libb2-0.98.1-COPYING",
+      "bytes": 6556,
+      "sha256": "6a1ee543e5282cd9061881edf462e6fdab181f328da71fc2c9a6950a80e94d01"
+    },
+    {
+      "path": "licenses/cpython/xz-5.2.5-COPYING",
+      "bytes": 2775,
+      "sha256": "bcb02973ef6e87ea73d331b3a80df7748407f17efdb784b61b47e0e610d3bb5c"
+    },
+    {
+      "path": "licenses/latex2mathml/LICENSE",
+      "bytes": 1071,
+      "sha256": "4ac1e1da07f6b343d54191c5e1716840534e08591b3f9eaec90d6800cdc47543"
+    },
+    {
+      "path": "licenses/pillow/LICENSE",
+      "bytes": 78016,
+      "sha256": "4f7866a74802c6326f81faff59a56546b6aec2b10b91973e0e9308de95e79857"
+    },
+    {
+      "path": "licenses/pypdf/LICENSE",
+      "bytes": 1605,
+      "sha256": "a97ac230e5f33ef10a5367a850eb01f91f1a0b064e34742c7794d2294557f524"
+    },
+    {
+      "path": "licenses/pypdfium2/LICENSES/Apache-2.0.txt",
+      "bytes": 11560,
+      "sha256": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
+    },
+    {
+      "path": "licenses/pypdfium2/LICENSES/BSD-3-Clause.txt",
+      "bytes": 1485,
+      "sha256": "ad9a9e823df025f42389c1812eae28019f657d1ed7b3a4ebfd5010b0736a0da4"
+    },
+    {
+      "path": "licenses/pypdfium2/LICENSES/CC-BY-4.0.txt",
+      "bytes": 14844,
+      "sha256": "f1b1748301cd4274f46733c218d510929661b4990855de5fc645dacd69c4371c"
+    },
+    {
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/abseil.txt",
+      "bytes": 11564,
+      "sha256": "f54fff0b905df5b3464527c652a30e903b172d6dcab4d89b5e6f105d5e4a4603"
+    },
+    {
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/agg23.txt",
+      "bytes": 725,
+      "sha256": "c110d3ea2ad77467ce0dcff7d3337e6c8be8049a5103f4b9bd5fd911a77972e5"
+    },
+    {
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/fast_float.txt",
+      "bytes": 1106,
+      "sha256": "bf1b57355feca8fce77ee95f48002f8d4789fb71b30ec7599c06cda4901fbb2b"
+    },
+    {
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/freetype.txt",
+      "bytes": 6741,
+      "sha256": "f4b133e25df1f86ad3ffea453aa0e613f0474f34778dbbb3e437e7b2724937d8"
+    },
+    {
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/icu.txt",
+      "bytes": 28286,
+      "sha256": "93679f4389d53b6835d89843f251844fb9bc455b35bab036d3c8e7abe497a47a"
+    },
+    {
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/lcms.txt",
+      "bytes": 1353,
+      "sha256": "7312b68c5b25e9bf2b828706fb4e29588f22705112f411fd42e1f7d84c3d139a"
+    },
+    {
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libjpeg_turbo.ijg",
+      "bytes": 13059,
+      "sha256": "db16a04128171879c60708d171b88d97345a2dd20f9bfc173680a4497c73f704"
+    },
+    {
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libjpeg_turbo.md",
+      "bytes": 5755,
+      "sha256": "be2b2b5ab168bce87bc3e31f2a5c5adba4b7f6e9e51d618e958d1d46972ebd95"
+    },
+    {
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libopenjpeg.txt",
+      "bytes": 1794,
+      "sha256": "c5ab0890a737c2dfa7ba675036554f6d17741d98629b0c2a145354d00617e6b2"
+    },
+    {
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libpng.txt",
+      "bytes": 5479,
+      "sha256": "452390433ba0f88aa3e2b122c647741b72a0c117cd6ed7a329b49785aecb5511"
+    },
+    {
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/libtiff.txt",
+      "bytes": 1139,
+      "sha256": "92b72ba97e6c2749c2a94bc0ef646b47080217f1e772a482b33cf5a5f98a6506"
+    },
+    {
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/llvm-libc.txt",
+      "bytes": 15418,
+      "sha256": "3b6226c32e168c83b891d8d6f0d3c29c2116dc3ef93dc93c307b54f279ecf383"
+    },
+    {
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/pdfium-binaries.txt",
+      "bytes": 1184,
+      "sha256": "8854f4388f1ca13b3ad9baa42e95f5546b4c0b17109c159256d3eca7be39b09b"
+    },
+    {
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/pdfium.txt",
+      "bytes": 12818,
+      "sha256": "961eacd9633fff6d051db7208b755e9210e30efac7adec3e6a6d52798f0ccf0e"
+    },
+    {
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/simdutf.txt",
+      "bytes": 1077,
+      "sha256": "c172a0ba936ff31230febb5dad869e25cb7c1a07480c7a381be8cf011bb52719"
+    },
+    {
+      "path": "licenses/pypdfium2/data/windows_x64/BUILD_LICENSES/zlib.txt",
+      "bytes": 1332,
+      "sha256": "33fd641c9f3b0e0be64bc78fea9e94807674cdd70c48477599226cb8956565fe"
+    },
+    {
+      "path": "scripts/check-tests.py",
+      "bytes": 822,
+      "sha256": "c707b6322b02d6ebb779a74d32e5956a8b56523bd4acec323b550f0130b7c6b9"
+    },
+    {
+      "path": "start.cmd",
+      "bytes": 807,
+      "sha256": "cdb3081d5f3e8489993d89314049ced18b5b26467e8a6c2c26a770b1c09fdfac"
+    },
+    {
+      "path": "tests/test_cli.py",
+      "bytes": 18149,
+      "sha256": "7759f6afb038d49fc97c0f82dd4d784fe04ba325dbc4a0e17de9d19b0380fb4e"
+    },
+    {
+      "path": "tests/test_client.py",
+      "bytes": 20137,
+      "sha256": "53c9f4f89e13976e825c96fb0fb99dd70d37b1eeb61f4c1013bf4989752232f9"
+    },
+    {
+      "path": "tests/test_documents.py",
+      "bytes": 35831,
+      "sha256": "24cfd7ebda1d8f646bf29ea1fff4b2968102e10daae81794fdd059bca9df4725"
+    },
+    {
+      "path": "tests/test_environment.py",
+      "bytes": 6450,
+      "sha256": "0d26682b4ca5d1090fe1a40792649d7b8a311564c8448b815228c20a94fd0a18"
+    },
+    {
+      "path": "tests/test_host.py",
+      "bytes": 17077,
+      "sha256": "63d0d66e537054b120d34e1a2cdc5e27af5b07a914c5094204e111b8001e6bcd"
+    },
+    {
+      "path": "tests/test_page_protocol.py",
+      "bytes": 20315,
+      "sha256": "1233d476ebb0f6ed63a5579ad83cd1222fc0c35282649ca32244a6794e4ddc0d"
+    },
+    {
+      "path": "tests/test_review.py",
+      "bytes": 26825,
+      "sha256": "48663258085ba87671add4f7b00ed8b4ab9e2a8f2c143812d666b9eeb202183b"
+    },
+    {
+      "path": "tests/test_storage.py",
+      "bytes": 36945,
+      "sha256": "c80fcfeabaca39c2e002457e9a8fee6e495225232e62c5a2655c3edc3193ef0b"
+    }
+  ],
+  "manifest_scope": "All payload files excluding this generated manifest itself",
+  "signature_verification": "NOT_RUN",
+  "upload": "NOT_RUN"
+}
